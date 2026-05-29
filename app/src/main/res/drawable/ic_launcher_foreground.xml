@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Gold Bar 1 (Bottom) -->
+    <path
+        android:fillColor="@color/gold_secondary"
+        android:pathData="M30,70 L78,70 L83,85 L25,85 Z" />
+    <path
+        android:fillColor="@color/gold_primary"
+        android:pathData="M30,70 L78,70 L75,65 L33,65 Z" />
+
+    <!-- Gold Bar 2 (Middle) -->
+    <path
+        android:fillColor="@color/gold_secondary"
+        android:pathData="M35,50 L73,50 L78,65 L30,65 Z" />
+    <path
+        android:fillColor="@color/gold_primary"
+        android:pathData="M35,50 L73,50 L70,45 L38,45 Z" />
+
+    <!-- Gold Bar 3 (Top) -->
+    <path
+        android:fillColor="@color/gold_secondary"
+        android:pathData="M40,30 L68,30 L73,45 L35,45 Z" />
+    <path
+        android:fillColor="@color/gold_primary"
+        android:pathData="M40,30 L68,30 L65,25 L43,25 Z" />
+
+    <!-- Shine effect -->
+    <path
+        android:fillColor="#40FFFFFF"
+        android:pathData="M45,28 L55,28 L53,32 L43,32 Z" />
+</vector>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="share_via">Share via</string>
+    <string name="btn_back">Back</string>
+    <string name="desc_share">Share</string>
+    <string name="desc_about">About</string>
+
+    <!-- Results Format -->
+    <string name="format_currency">RM %.2f</string>
+    <string name="format_weight">%.2f g</string>
+
+    <string name="app_name">Zakat Gold Calculator</string>
+    <string name="about_title">About App</string>
+    <string name="github_url">https://github.com/MikZexR/Gold-Zakat-Calculator.git</string>
+    <string name="share_text">Calculate your Zakat Gold with this app: %1$s</string>
+
+    <!-- Calculator Screen -->
+    <string name="calc_header">Estimation for Gold Zakat</string>
+    <string name="label_weight">Weight of gold (grams)</string>
+    <string name="label_value">Current Gold Value (RM per gram)</string>
+    <string name="label_usage_type">Type of Gold Usage:</string>
+    <string name="option_keep">Keep</string>
+    <string name="option_wear">Wear</string>
+    <string name="btn_calculate">Calculate Zakat</string>
+    <string name="error_invalid_input">Please enter valid numerical values.</string>
+
+    <!-- Results -->
+    <string name="res_total_value">Total Value of Gold:</string>
+    <string name="res_weight_minus_x">Gold Weight minus Uruf (X):</string>
+    <string name="res_payable_value">Zakat Payable Value:</string>
+    <string name="res_total_zakat">Total Zakat Payable:</string>
+    <string name="instructions">Instructions: Enter the gold weight and current market value. Select \'Keep\' for stored gold (X=85g) or \'Wear\' for jewelry (X=200g).</string>
+
+    <!-- Developer Details -->
+    <string name="dev_profile_header">Developer Profile</string>
+    <string name="label_name">Name:</string>
+    <string name="label_student_id">Student ID:</string>
+    <string name="label_programme">Programme:</string>
+    <string name="label_group">Group:</string>
+
+    <string name="dev_name">MUHAMMAD MIKHAIL DANISH BIN QISTY</string>
+    <string name="dev_id">2025730221</string>
+    <string name="dev_programme">CDCS251 - Netcentric Computing</string>
+    <string name="dev_group">RCDCS2515B</string>
+
+    <string name="about_app_header">About the Application</string>
+    <string name="about_description">This application is developed to help users estimate their Zakat gold payments easily. It follows the Islamic calculation guidelines for gold keeping and wearing, accounting for Uruf thresholds.</string>
+    <string name="copyright">Copyright © 2026. All Rights Reserved.</string>
+    <string name="github_label">GitHub Repository:</string>
+</resources>
